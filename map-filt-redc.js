@@ -1,3 +1,4 @@
+// ini adalah materi array methods
 const numbers = [1, 2, 3, 4, 5];
 
 // map
