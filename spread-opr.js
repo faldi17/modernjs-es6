@@ -23,7 +23,6 @@ console.log(mergedObj); // { name: 'John', age: 30, gender: 'Male', city: 'New Y
     const mergedObj2 = obj1.concat(obj2); // ini cara yg salah
 */
 
-
 /*
     jadi secara fungsi spread operator ini hampir mirip concat, yaitu menggabungkan array
     tapi concat sendiri ga bisa gabungin object
